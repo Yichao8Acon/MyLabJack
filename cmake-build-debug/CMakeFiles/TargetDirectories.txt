@@ -1,0 +1,3 @@
+C:/Users/yichao.qin/CLionProjects/MyLabJack/cmake-build-debug/CMakeFiles/MyLabJack.dir
+C:/Users/yichao.qin/CLionProjects/MyLabJack/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yichao.qin/CLionProjects/MyLabJack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
